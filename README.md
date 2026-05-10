@@ -51,6 +51,14 @@ Buttons, cards, wrappers, and utility styles are reusable and organized.
 
 ---
 
+# Note
+
+This project is currently **not fully responsive**.  
+The main focus of this project was creating a visually attractive futuristic UI design with modern layout styling, glow effects, animations, and clean section structure.
+
+The design works best on desktop/laptop screens.  
+Mobile optimization and advanced responsiveness can be added in future updates.
+
 # Project Structure
 
 ```bash
